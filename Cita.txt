@@ -1,0 +1,11 @@
+Patrycja Sokolowska, Kamil Zukowski, Justyna Janikiewicz, Elzbieta Jastrzebska, Agnieszka Dobrzyn, Zbigniew Brzozka,
+Islet-on-a-chip: Biomimetic micropillar-based microfluidic system for three-dimensional pancreatic islet cell culture,
+Biosensors and Bioelectronics,
+Volume 183,
+2021,
+113215,
+ISSN 0956-5663,
+https://doi.org/10.1016/j.bios.2021.113215.
+(https://www.sciencedirect.com/science/article/pii/S0956566321002529)
+Abstract: Type 2 diabetes is currently one of the most common metabolic diseases, affecting all ages worldwide. As the incidence of type 2 diabetes increases, a growing number of studies focus on islets of Langerhans. A three-dimensional research model that maps islet morphology and maintains hormonal balance in vivo is still needed. In this work, we present an Islet-on-a-chip system, specifically a micropillar-based microfluidic platform for three-dimensional pancreatic islet cell culture and analysis. The microfluidic system consisted of two culture chambers that were equipped with 15 circular microtraps each, which were built with seven round micropillars each. Micropillars in the structure of microtraps supported cell aggregation by limiting the growth surface and minimizing wall shear stress, thereby ensuring proper medium diffusion and optimal culture conditions for cell aggregates. Our system is compatible with microwell plate readers and confocal laser scanning microscopes. Because of optimization of the immunostaining method, the appropriate cell distribution and high viability and proliferation up to 72 h of culture were confirmed. Enzyme-linked immunosorbent assays were performed to measure insulin and glucagon secretion after stimulation with different glucose concentrations. To our knowledge, this is the first Lab-on-a-chip system which enables the formation and three-dimensional culture of cell aggregates composed of commercially available α and β pancreatic islet cells. The specific composition and arrangement of cells in the obtained model corresponds to the arrangement of the cells in rodent pancreatic islets in vivo. This Islet-on-a-chip system may be utilized to test pathogenic effectors and future therapeutic agents.
+Keywords: Lab-on-a-chip system; Pancreatic islet; Islet-on-a-chip diabetes mellitus; Insulin secretion; Glucagon secretion; Microfluidic system; Three-dimensional cellular model
